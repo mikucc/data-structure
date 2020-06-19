@@ -1,3 +1,4 @@
+//自己的代码
 #include<iostream>
 using namespace std;
 int a[12]={8,1,2,3,9,10,11,6,5,4,12,7};
